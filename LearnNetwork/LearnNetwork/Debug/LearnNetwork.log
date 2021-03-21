@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\test\LearnNetwork\LearnNetwork\main.cpp(60,41): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-  LearnNetwork.vcxproj -> D:\test\LearnNetwork\Debug\LearnNetwork.exe
